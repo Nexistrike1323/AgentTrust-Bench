@@ -1,0 +1,1 @@
+@echo off\r\nset PYTHONPATH=%CD%\\src\r\npython -m unittest discover -s tests -v\r\n

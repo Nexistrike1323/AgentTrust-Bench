@@ -1,0 +1,1 @@
+@echo off\r\necho AgentTrust-Bench uses Python standard library only.\r\necho No pip installation is required.\r\npython --version\r\nif errorlevel 1 exit /b 1\necho Setup check complete.\r\n
